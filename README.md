@@ -7,6 +7,10 @@ This repository contains the implementation of a VoiceChatbot with text-to-speec
 
 This repository contains the implementation of a VoiceChatbot with text-to-speech functionality. The chatbot is designed to collect user details for booking appointments, process dates, convert month names provided in English to their corresponding numeric values, and handle user remarks. The project is developed using Python and Jupyter Notebook.
 
+### Prerequisites
+
+- Python 3.x
+- Jupyter Notebook
 ## Features
 
 - **Text-to-Speech:** Converts text inputs to speech outputs for interaction with the user.
