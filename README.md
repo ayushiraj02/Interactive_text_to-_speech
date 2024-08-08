@@ -22,3 +22,4 @@ This repository contains the implementation of a VoiceChatbot with text-to-speec
 
 The project consists of a Jupyter Notebook file which includes the entire implementation of the VoiceChatbot.
 
+If you have any ideas or suggestions to improve this project, feel free to fork the repository and submit a pull request. Contributions are always welcome!
